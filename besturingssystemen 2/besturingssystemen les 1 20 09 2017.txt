@@ -1,0 +1,4 @@
+hoe free -k namaken
+
+echo [1ste lijn van free -k] ; echo [2e lijn van free -k] ; echo [3e lijn]
+dan juiste getallen invullen
